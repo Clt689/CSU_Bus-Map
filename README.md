@@ -1,7 +1,7 @@
 # CSU_Bus-Map
 Capstone Design
 
-<h1>조선대학교 셔틀버스 실시간 위치 맵</h1>{style = "color-font : #0032a0";}
+<h1>조선대학교 셔틀버스 실시간 위치 맵{style = "color-font : #0032a0";}</h1>
 <b>06분반 4조</b>
 
 20184452 이한빈  
