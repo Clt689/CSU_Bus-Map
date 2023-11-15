@@ -1,6 +1,8 @@
 # CSU_Bus-Map
 Capstone Design
 
+2023 IT Festival 공모
+
 <h1>조선대학교 셔틀버스 실시간 위치 맵</h1>
 <b>캡스톤디자인 06분반 4조 </b>
 
