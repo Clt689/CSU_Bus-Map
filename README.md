@@ -2,16 +2,25 @@
 
 <h1>조선대학교 셔틀버스 실시간 위치 맵🚍</h1>
 
-### 프로젝트 개요
+## 프로젝트 개요
 저희의 캡스톤디자인 프로젝트는 조선대학교 교내 셔틀버스의 실시간 위치를 제공하는 PWA(Progressive Web App)를 개발하는 것입니다. 이 프로젝트는 교내 셔틀버스 이용자들에게 실시간 셔틀버스 위치, 셔틀버스 내 분실물, 셔틀버스 이용 수칙 등의 교내버스 이용 관련 편리성을 제공하고자 기획되었습니다.
 
-### <b>캡스톤디자인 06분반 4조 (2023.09 ~ 2023.12)</b>
+<br>
 
-이한빈 (FE & Design)
-오민정 (Design)  
-임창준 (Android & BE)    
-오하영 (BE) 
-  
+## <b>캡스톤디자인 06분반 4조 (2023.09 ~ 2023.12)</b>
+<img width="459" alt="image" src="https://github.com/user-attachments/assets/1afcd9af-c0bb-4f1f-80b3-aceeb1ac8269">
+
+<br>
+
+## 사용 기술
+### 프론트엔드
+<img width="80" alt="image" src = "https://camo.githubusercontent.com/ba1011de50d15e00988c86d9b8b63d3d648adb9f5aefe20d31a8973b7d0589dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d6635663566353f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35"><img width="80" alt="image" src = "https://camo.githubusercontent.com/00f457eed3a5aad8c0e18f43dd239a2e6b0844dc32d8597c7990bb7d70ec1244/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d6635663566353f7374796c653d666c61742d737175617265266c6f676f3d43737333266c6f676f436f6c6f723d313537324236">
+<img width="80" alt="image" src = "https://camo.githubusercontent.com/4f9eef6d718f6587a49776108c8dec8d69f9222cb89a34197ad885614f396dbb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d6635663566353f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074">
+
+### 백엔
+
+
+
 ---
 ## 프로젝트 구조
 ![image](https://github.com/Clt689/CSU_Bus-Map/assets/115773895/bb510a38-a618-4aa5-bf4d-426177ac94fc)
