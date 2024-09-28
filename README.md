@@ -24,7 +24,7 @@
 <br>
 
 ### 디자인
-<img width="91" alt="image" src = "https://camo.githubusercontent.com/fa9776c25bf79026c825effc506525b40f4f1021c29386b4cf3acf5f572054e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d6635663566353f7374796c653d666c61742d737175617265266c6f676f3d6669676d61">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
 ---
 ## 프로젝트 구조
