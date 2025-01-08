@@ -17,7 +17,7 @@
 ## 🧑‍🤝‍🧑 <b>캡스톤디자인 06분반 4조 (2023.09 ~ 2023.12)</b>
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/1afcd9af-c0bb-4f1f-80b3-aceeb1ac8269">
 
-<br>
+- 팀장 : 이한빈
 <br>
 
 ## 👨🏻‍💻 사용 기술
